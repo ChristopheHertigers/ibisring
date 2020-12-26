@@ -1,12 +1,12 @@
 ---
-slug: buffnecked-and-or-blackfaced-ibis
-title: Buffnekken En/Of Brilibissen
-date: 2009-07-09T13:27:49.803Z
-author: Luuc
-articleType: Artikel
-banner: /images/articles/buffneck_edited.jpg
-bannerAuthor: Blake Matheson
-bannerUrl: https://www.flickr.com/photos/34328261@N02/10338421596/
+slug: "buffnecked-and-or-blackfaced-ibis"
+title: "Buffnekken En/Of Brilibissen"
+date: "2009-07-09T13:27:49.803Z"
+author: "Luuc"
+articleType: "Artikel"
+banner: "/images/articles/buffneck_edited.jpg"
+bannerAuthor: "Blake Matheson"
+bannerUrl: "https://www.flickr.com/photos/34328261@N02/10338421596/"
 ---
 Zo'n tiental jaren geleden zagen we in enkele zoo's buffkleurige ibissen. Meestal ging het om één losse vogel, ondergebracht bij de rest in een groepsvolière. Slechts enkele hadden er een koppel van. Misschien waren het de zijdehoenders die ik vroeger in deze kleuren fokte die de link legden, maar het was een soort die ons bijzonder aansprak. Nergens scheen iets te koop. Nafok was zo goed als onbestaande en zij die een vogel hadden zaten allen te wachten om er elders één bij te kopen. Zeldzame dingen in koppels onderbrengen moest nog worden uitgevonden.
 

@@ -1,11 +1,12 @@
 backend:
   name: git-gateway
   branch: main
-media_folder: static  # Media files storage
+media_folder: static/images/articles  # Media files storage
 public_folder: /images/articles # The src attribute for uploaded media
 
 collections:
   - name: "articles" # Used in routes
+    identifier_field: "slug"
     label: "Articles" # Used in the UI
     folder: "static/content/articles" # The path to the folder where our posts are stored
     create: true # Allow users to create new documents in this collection
@@ -15,7 +16,7 @@ collections:
       - { label: "Publish Date", name: "date", widget: "datetime"}
       - { label: "Author", name: "author", widget: "string" }
       - { label: "Article Type", name: "articleType", widget: "select", options: ["Project", "Artikel", "Info Pagina", "Wetenschappelijke Publicatie"] }
-      - { label: "Banner", name: "banner", widget: "image" }
-      - { label: "Banner Author", name: "bannerAuthor", widget: "string" }
-      - { label: "Banner Url", name: "bannerUrl", widget: "string" }
+      - { label: "Banner", name: "banner", widget: "image", required: false }
+      - { label: "Banner Author", name: "bannerAuthor", widget: "string", required: false }
+      - { label: "Banner Url", name: "bannerUrl", widget: "string", required: false }
       - { label: "Body", name: "body", widget: "markdown" }
