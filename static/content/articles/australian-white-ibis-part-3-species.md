@@ -1,0 +1,107 @@
+---
+slug: "australian-white-ibis-part-3-species"
+title: "Australische Witte Ibis - Deel 3: Soortbeschrijving"
+date: "2012/02/10"
+summary: "Dit artikel beschrijft de Australische witte ibis, je kent hem wel, het paradepaardje van Ibisring. Zo'n vijftal jaren geleden was deze soort één van de zwarte eendjes binnen de avicultuur: Er was niets over gekend, er was geen interesse voor (onbekend is onbemind), het kwam voor in gemengde groepen met heilige ibissen waardoor er barslechte broedresultaten waren met zelfs kans op kruising, enz. ..."
+author: "Koen Thijs"
+articleType: "Project"
+banner: "/images/articles/Australian_White_Ibis_1.jpg"
+---
+
+Dit artikel maakt deel uit van een reeks:
+- [Deel 1: Intro](/article/australian-white-ibis-part-1-intro)
+- [Deel 2: Het project](/article/australian-white-ibis-part-2-the-project)
+- **Deel 3: Soortbeschrijving (huidig artikel)**
+
+## Voorwoord
+
+Dit artikel beschrijft de Australische witte ibis, je kent hem wel, het paradepaardje van Ibisring. Zo'n vijftal jaren geleden was deze soort één van de zwarte eendjes binnen de avicultuur: Er was niets over gekend, er was geen interesse voor (onbekend is onbemind), het kwam voor in gemengde groepen met heilige ibissen waardoor er barslechte broedresultaten waren met zelfs kans op kruising, enz. Nadat Ibisring in actie schoot, is de populatie Australische witte ibis op vijf jaar tijd geëvolueerd in zowat de best beheerde dierpopulatie in gevangenschap ter wereld! Een zeer intensief literatuuronderzoek, een uniek genetisch verwantschapsonderzoek (financieel gesteund door Aviornis Nederland, Spanje en Frankrijk), een unieke samenwerking tussen liefhebbers en dierentuinen, enz. resulteerde in een uniek studieboek voor deze soort, dat als voorbeeld kan dienen voor andere soorten in gevangenschap. Dankzij deze gebundelde inspanningen gaat deze soort een rooskleurige toekomst tegemoet. In een volgend artikel wordt dit project uitvoeriger uit te doeken gedaan.
+
+Geïnteresseerden in het studieboek (tientallen pagina's, uitgebreide en gedetailleerde soortbeschrijving, details over het project, vele kleurenfoto's, Engelstalig) kunnen contact opnemen met koen@ibisring.org / +32494992856 om een exemplaar te kopen of voor meer informatie. Opbrengst volledig ter ondersteuning van dit project.
+
+![](/images/articles/australisch6.jpg)
+
+## Taxonomie
+
+Omdat de Australische witte ibis (Threskiornis molucca (Cuvier)) zoveel lijkt op de heilige ibis (Threskiornis aethiopicus Latham) en de Indische witte ibis (Threskiornis melanocephalus Latham) vormen deze drie soorten samen een supersoort-complex. Binnen de soort Australische witte ibis worden twee ondersoorten onderscheiden. De nominaatvorm T. m. molucca komt voor in Australië en omliggende eilanden. De tweede ondersoort, T. m. pygmaeus, is zoals de naam doet vermoeden een kleinere versie van de nominaatvorm. Deze ondersoort komt enkel voor op Rennell- en Bellona-eiland.
+
+Zoals hierboven vermeld, bestaat er een supersoort-complex omdat er drie soorten enorm veel op elkaar lijken. Daarom is het enorm belangrijk om deze drie soorten goed te kunnen onderscheiden van elkaar, zowel qua naamgeving als qua uiterlijk. In literatuur bestaat er weinig eenduidigheid over de exacte naamgeving. Zo wordt de Australische witte ibis soms heilige ibis, Threskiornis aethiopica of witte ibis genoemd. Deze naamgeving is foutief omdat het ook verwijst naar andere soorten en zo verwarring kan veroorzaken. Twee verklaringen voor deze foutieve naamgeving kunnen worden gegeven. Ten eerste werd de Australische witte ibis vroeger als een ondersoort van de heilige ibis (T. aethiopica) beschouwd en dus kreeg de 'ondersoort' dezelfde soortnaam. De naamgeving witte ibis kan verwarring opleveren met de Amerikaanse witte ibis of Indische witte ibis. Deze naamgeving werd echter hoofdzakelijk gebruikt vóór 1975 en vooral in Australische vakliteratuur waardoor iedereen direct wist dat het om de Australische witte ibis ging en niet om een Aziatische, Afrikaanse of Amerikaanse variant. Om verdere verwarring in de toekomst te voorkomen, is het raadzaam om altijd Australische witte ibis te gebruiken. Niet alleen op vlak van naamgeving is er verwarring mogelijk, ook op vlak van uiterlijk wordt de Australische witte ibis vaak verward met de drie andere soorten uit hetzelfde geslacht Threskiornis (zie verder voor details).
+
+## Beschrijving
+
+De Australische witte ibis is een middelgrote, hoofdzakelijk witte ibis met een lange, neergebogen, zware snavel, een kale zwarte nek en opvallende zwart-wit gestreepte veren op de rug. Deze vogels zijn 65-75 cm lang en hebben een vleugelspanwijdte van 110-125 cm. De mannen wegen 1,7-2,5 kg en de vrouwtjes 1,4-1,9 kg. Beide geslachten hebben hetzelfde verenkleed, maar de mannetjes zijn meestal zwaarder.
+
+Verder is de snavel van de mannetjes langer en robuuster, zoals bij de meeste ibissen. Na het meten van de snavellengte van 164 Australische witte ibissen bleek dat er geen overlap was in snavellengte tussen de beide geslachten: gemiddelde snavellengte bij mannetjes 190,5 mm (min. 173 mm - max. 210 mm) en voor vrouwtjes 154,0 mm (min. 140 mm - max. 168 mm). De ondersoort T. m. pygmaeus heeft beduidend kleinere afmetingen (gecontroleerd voor culmen, vleugel, tarsus en nagellengte).
+
+![](/images/articles/australisch7.jpg)
+
+Volwassen vogels hebben een witte basiskleur met verschillende donkere onderdelen: Ten eerste zijn de buitenste (grote) slagpennen groenzwart, ten tweede hangen er boven de opgevouwen vleugels opvallende zwart-wit gestreepte rugveren die over de onderrug en staart hangen. Ten derde zijn het hoofd en het bovenste deel van de nek onbevederd en zwart. Soms zijn er roze tot rode huiduitstulpingen zichtbaar op het achterhoofd. Het vierde en laatste is de lange zwarte snavel die naar beneden is gebogen en samenkomt in een smal uiteinde. De ibis heeft een kale huid op de beenderen aan de ondervleugel, dat zichtbaar is in vlucht. Tijdens het broedseizoen kleuren deze donkerrood en de andere kale onderdelen worden blinkend zwart. Lange, gelige veders vormen een sikje aan de basis van de voorhals. De iris is bruin met soms een beetje rood aan de oogrand. De bovenste delen van de lange poten zijn rood tot roze en de onderste delen zijn grijs tot zwart. Kuikens zijn bedekt met wit dons behalve het zwarte dons op het hoofd en de nek. Onvolwassen vogels lijken op niet-broedende volwassen maar het hoofd en de nek zijn bevederd met zwarte en witte veren die ze geleidelijk verliezen.
+
+In het wild kan de Australische witte ibis gemakkelijk herkend worden als een grote, witte vogel met lange poten, een zwart hoofd en een lange gebogen snavel. In vlucht en onder slechte lichtcondities is het onderscheid moeilijker te zien en is het zelfs mogelijk om deze ibis te verwarren met de koningslepelaar en de geelsnavellepelaar. Zoals eerder al vermeld, vormt de Australische witte ibis een supersoort-complex met twee andere soorten ibissen (heilige ibis en Indische witte ibis) omdat ze enorm veel op elkaar lijken. Daarom zullen kort de verschillen tussen deze drie soorten worden besproken (De vierde soort uit hetzelfde geslacht, de strohalsibis, is moeilijk te verwarren met deze drie soorten uit het supersoort-complex omdat deze soort hoofdzakelijk zwart is). Er zijn enkele goede karakteristieken die onderscheid mogelijk maken, de belangrijkste kenmerken zijn weergegeven in de tabel op de volgende bladzijde.
+
+![](/images/articles/australisch8.jpg)
+
+## Habitat
+
+De Australische witte ibis heeft geen specifieke voorkeur voor een bepaald habitat en komt zelfs voor in artificiële habitats. Ze houden van open gebieden waar er weinig en lage vegetatie is, de volgende types habitat komen dus in aanmerking:
+- Terrestrische wetlands: Ze verkiezen ondiep water met een zachte bodem of modderige vlaktes zoals moerassen of meren.
+- Graslanden: Natte graslanden of landbouwgrond wanneer er voldoende invertebraten in leven. Natte weiden en moerassen met lage vegetatie is geschikt. Graslanden zijn geschikt tijdens en na het maaien omdat vele invertebraten en smalle vertebraten worden gedood.
+- Beschutte kusthabitats: zoute habitats zoals estuaria, mangroves, zoutvlaktes, zoutmoerassen, lagoons en stranden worden soms gebruikt.
+- Kunstmatige wetlands zoals waterreservoirs, dammen en waterzuiveringstations.
+- Stedelijke omgeving: Tuinen, speeltuinen, wegbermen, parken, storten, slachthuizen, enz.
+
+Na de Europese nederzetting op Australië is het habitat vergroot door het kaalkappen en omzetten van bossen naar landbouwgrond en grasland waar de ibis wordt gewaardeerd omwille van het eten van schadelijke diertjes. Omdat deze ibis zo tolerant is tegenover artificiële habitats, vormt de bedreiging van wetlands niet zozeer een gevaar voor deze ibis. Wat wel een probleem veroorzaakt, is het afdammen van rivieren zodat er minder overstromingen plaatsvinden. Geconcludeerd kan worden dat de ibis droge gebieden vermijdt, enkele op lagere hoogtes voorkomt en vooral terug te vinden is in gebieden waar water aanwezig is.
+
+## Verspreiding
+
+De Australische witte ibis komt veelvuldig voor in Australië. Regelmatig worden zeer grote aantallen waargenomen, vooral in broedkolonies en nabijgelegen foerageerplaatsen. Toch is het minder algemeen als zijn nauwe verwante, de strohalsibis. De Australische witte ibis is veelvoorkomend in het oostelijk deel van Australië, vooral in het noordelijk en oostelijk deel, maar ook in Zuidwest-Australië. De grootste kolonies zijn te vinden in de staten Victoria en New South Wales, waar soms tot 15000 vogels per kolonie worden geteld. In de hoofdstad van New South Wales, Sydney, is deze ibis steeds meer voorkomend, zelfs tot in het hartje van de stad. De reden van deze recente invasie is waarschijnlijk het ontsnappen van zes tot tien vogels uit Taronga Zoological Gardens rond 1970. Deze bleven rondzwerven rond de zoo en broedden in de aanwezige palmbomen. Zonder twijfel stammen de erg tamme vogels die nu terug te vinden zijn in Sydney af van deze kolonie. In de staat Queensland is de soort wijdverspreid uitgezonderd enkele gebieden. In de staat Tasmania, een eiland ten zuiden van het hoofdeiland, komt de soort in feite niet voor. Toch zijn er regelmatige invasies van vogels die, waarschijnlijk door stormweer, vanaf het Australische vasteland 320 km verder tot op het eiland zijn geblazen. Verschillende waarnemingen zijn er in de staat Western Australia, South Australia en Northern Territory. De ibis is een toevallige passant in Norfolk Island (Australisch extern territorium).
+
+Buiten Australië is de soort resident in New Guinea, waar soms tot 45000 vogels worden geteld. Sommige vogels vliegen speciaal van Australië naar New Guinea om te overwinteren. Op de Molukken zwerft de soort soms rond. Mogelijk zou de Australische ibis op New Guinea en de Molukken samen voorkomen met de Indische witte ibis. Verder is de soort waargenomen op Lesser Sunda Island, Sulawesi, Borneo en NieuwZeeland. De ondersoort T. m. pygmaeus komt voor op Rennell en Bellona Island (Solomon Islands).
+
+De Australische ibis blijft niet altijd trouw aan zijn geboorteplaats. Er zijn hervangsten van juveniele ibissen ongeveer 3200 km van hun geboorteplaats. Andere vogels blijven dan weer trouw aan hun geboorteplaats en zullen niet wegtrekken. Regelmatig zijn er waarnemingen van groepen die van Australië naar New Guinea trekken.
+
+![](/images/articles/australisch9.jpg)
+
+## Voedsel
+
+De Australische witte ibis verkiest waterrijke of natte situaties en probeert droge gebieden te ontwijken. Het voedt zich langs de ondiepe randen van meren of moerassen, op moddervlakten, mangroven, kreken, enz. Tijdens droogte voeden de vogels zich langs het water. Ook in antropogene gebieden, zoals graslanden, weilanden, parken, vuilnisbelten enz. zullen ze gaan om zich te voeden. Ze foerageren altijd in groep met soortgenoten, maar ook met andere soorten zoals reigers en lepelaars.
+
+Het dieet is enorm gevarieerd, bestaande uit wormen, kreeftjes (meest gegeten), spinnen, krekels, sprinkhanen, motten, bijen, kever, mossels, vissen, kikkers, enz. Ook aas en slangen worden gegeten. De ibissen prefereren vooral prooien rond 5 cm lang, wat beduidend langer is dan de prooien van de strohalsibis. Om mosselen te eten gebruikt de Australische witte ibis gereedschap zoals stenen of takken. Indien nodig kan ze verschillende mosselen inslikken en ermee naar het gereedschap vliegen, waar ze de schelpen weer opbraakt. Het is opmerkelijk dat de ibis geleerd heeft om met gereedschap te werken terwijl mosselen maar een zeer beperkt aandeel hebben in hun dieet.
+
+Om zijn voedsel te bemachtigen wandelt de ibis rustig, zijn lange snavel gebruikend om de bodem af te tasten in het water of op het land. Het kan tot 25 cm of dieper in het water naar voedsel zoeken. Met behulp van mechanoreceptoren op het topje van de snavel kan het voedsel voelen en vangen. Dit is een verschil met de strohalsibis die in gelijkaardig gebied voorkomt, maar vooral ondieper water verkiest omdat deze met zijn zicht en niet zozeer de tast gebruikt om voedsel te vinden.
+
+## Sociale Organisatie En Gedrag
+
+Tijdens het foerageren, kunnen kleine interacties ontstaan tussen soortgenoten, zoals pikken zonder contact te maken. Dit gebeurt vooral wanneer er ruzie is over hetzelfde stukje voedsel. Er is een soort van hiërarchie (dominantie) onder de mannetjes over het verkrijgen van voedsel. Mannetjes domineren ook de vrouwtjes, maar ze zijn veel toleranter tegenover elkaar. Korte gevechtjes vinden ook plaats tijden balts, paarvorming, constructie van het nest.
+
+![](/images/articles/australisch10.jpg)
+
+De Australische witte ibis is monogaam, maar regelmatig zal er gepaard worden met vogels van nabijgelegen nesten. Deze buitenechtelijke paringen vinden nagenoeg allemaal plaats als de eieren al zijn gelegd en hebben dus weinig effect. De paarband blijft bestaan tot na het opkweken van de jongen, maar kan soms duren tot na het grootbrengen van verschillende nesten, gedurende meerdere jaren. De eerste paringen vinden plaats op driejarige leeftijd. Beide ouders zullen broeden en zullen samen de jongen voeden tot vier weken na uitvliegen. De ibis is een koloniale broeder, met soms tot 15000 nesten in een kolonie. De nesten worden gemaakt in bomen en kunnen volledige eilandjes bedekken. Tot vijf nesten kunnen voorkomen per vierkante meter, dus nesten kunnen elkaar raken. De ibis is territoriaal en verdedigt zijn nest en de onmiddellijke omgeving. Tegenover naaste buren zijn ze meestal wel verdraagzamer.
+
+De ibissen verkiezen om allemaal samen te slapen op gemeenschappelijke slaapplaatsen. Daar overnachten ze samen met andere ibissen, reigers, lepelaars, enz. Voor het broedseizoen start, slapen de paartjes samen maar niet in de omgeving van de nestplaats. Echter, enkele dagen voor het leggen en tijdens het leggen, slapen ze op de nestplaats. Tijdens het broeden en grootbrengen, slaapt één partner op het nest terwijl de andere in een nabijgelegen boom slaapt met andere soortgenoten.
+
+In het begin van het broedseizoen komen de mannetjes en vrouwtjes allemaal samen in bomen of op eilandjes. In deze groepen, zullen de mannetjes zichzelf proberen te promoten door te roepen, de vleugels uit te spreiden en naar beneden te houden, de kopveren de schudden, de zwarte vleugeluiteinden te tonen, het hoofd te strekken en naar beneden te houden, enz. Het mannetje loopt vaak naar andere mannetjes in deze houding. Wanneer twee vogels elkaar accepteren, zullen ze elkaar groeten met hun snavel: de vogels staan langs elkaar en wrijven hun hoofden en snavel tegen elkaar waarbij ze roepen. Ze staan soms ook tegenover elkaar en raken voorzichtig elkaar snavel aan. Wanneer in zo'n groep vogels paren, is de kans groot dat er ook effectief een paar is gevormd. Gevormde koppels kiezen en verdedigen een nestplaats en staan vaak naast elkaar. Paringen gebeuren vanaf dan altijd op het nest, omdat er altijd één partner op het nest zal blijven. Wanneer de andere partner komt aangevlogen zullen beide vogels elkaar begroeten.
+
+Voordat het eerste ei wordt gelegd, bevinden beide vogels zich vaak op het nest en verdedigen het. Na het leggen, is er meestal één vogel op het nest om te broeden, terwijl de partner foerageert. Meestal brengt de terugkerende partner een beetje nestmateriaal mee naar het nest en presenteert dit aan de broedende vogel. Dankzij deze geste, laat de vogel deze partner toe en kan het zelf het nest verlaten, terwijl de andere boven de eieren zal gaan staan, de veren nog eens goed uitschudt vooraleer deze het broeden verderzet. Beide vogels broeden even lang op de eieren.
+
+![](/images/articles/australisch11.jpg)
+
+Wanneer de jongen zijn geboren krijgen ze ongeveer vier keer per uur voedsel dat de ouders uitbraken. De jongen bedelen constant voor voedsel en oudere kuikens zullen al bedelend achter hun ouders aanvliegen. Sommige pikken hun ouders zelf zeer hard op hun hoofd wanneer de ouders geen voedsel geven. Oudervogels voeden enkel hun eigen jongen en jongen bedelen enkel bij hun eigen ouders. Toch zijn er voorbeelden van vrouwtjes die ongerelateerde weeskuikens met een gelijkaardige leeftijd als hun eigen kuikens voeden. Na drie weken worden de jongen niet meer constant bewaakt door hun ouders. Dan vormen de jongen crèches op nestplatformen, terwijl in sommige kolonies de vogels toch nog op hun eigen nest blijven zitten. Ongeveer drie weken na de eerste vliegpoging zijn de kuikens onafhankelijk, alhoewel de langste periode tussen uitvliegen en de laatste voeding tot 71 dagen kan bedragen.
+
+## Broeden
+
+In dit gedeelte gaan we het broedproces grondiger bekijken. Wanneer tijdens het regenseizoen grote stukken land onder water komen te staan, is het tijd voor de ibissen om te starten met broeden. Ze maken dan nesten in de vorken of op grote takken van bomen. Dit nest kan tot 30 m hoog zijn, maar soms wordt er ook vlak boven de grond tot zelfs op de grond genesteld op eilanden. Ook artificiële nestplaatsen zoals speciale platformen worden gebruikt. Soms wordt een nest jaar na jaar gebruikt, maar meestal door andere koppels. Vaak bevindt het nest zich in de omgeving van Strohalsibissen, reigers, aalscholvers of ooievaars. Beide partners bouwen aan het nest dat bestaat uit twijgen, bladeren, riet, waterplanten, enz. Meestal brengt het mannetje het materiaal aan, terwijl het vrouwtje het materiaal rangschikt. Ze starten aan de bouw twee tot drie dagen vooral het eerste ei wordt gelegd. Regelmatig wordt de bouw plots stopgezet en wordt op een andere locatie opnieuw gestart. Individuele nesten kunnen elkaar raken en in dense kolonies kunnen deze nesten een continu platform vormen. Deze nesten kunnen dan een volledige boom of zelfs eilandje bedekken, zo zijn er nestplatformen bekend van 500 m².
+
+Een tot zes eieren worden gelegd met een gemiddelde van 2,75 eieren per nest, maar er is een enorme variatie doorheen verschillende jaren. Wanneer het legsel verloren gaat, wordt er meestal binnen de 18 dagen een nieuw legsel begonnen. Wanneer een nest echter succesvol is, wordt een tweede legsel 13 tot 100 dagen later gestart. Sommige koppels slagen er zo in om tot drie nesten per jaar groot te brengen. De eieren zijn ovaal en dofwit, ze meten 67,8 x 43,8 mm en wegen ongeveer 67 gram. De eieren worden om de 48 uur 's nachts gelegd. Beide oudervogels broeden zo'n 20-23 dagen op de eieren. Uiteindelijk zullen de kuikens asynchroon uitkomen gedurende twee dagen. De kuikens wegen ongeveer 46 gram en zullen op slechts 28 dagen tijd 1000 tot 1750 gram bijkomen. De kuikens zijn nestblijvers en moeten dus door de ouders worden gevoerd. Beide oudervogels houden de kuikens de eerste drie weken warm. Om de 15 minuten worden de kuikens gevoerd. Na drie weken in het nest, verlaten de jongen meestal het nest en blijven twee weken samen met soortgenoten. Ze worden op dat moment nog maar 1 tot 2 keer per dag gevoerd.
+
+![](/images/articles/australisch12.jpg)
+
+De overlevingskans van de jongen hangt grotendeels af van het beschikbare voedsel. Vaak worden kolonies ook geteisterd door overstromingen waardoor ze verplicht zijn om de nesten te verlaten. In contrast, wanneer de gebieden uitdrogen verlaten de oudervogels ook de nesten omdat er nog maar weinig voedsel beschikbaar is en omdat landpredatoren tot bij de nesten kunnen komen. Predatie is echter geen belangrijke factor bij Australische witte ibis. Uiteindelijk zal van alle nestpogingen zo'n 51% falen, waarvan 76 % nog voor de kuikens uitkomen.
+
+## Bedreiging
+
+De grootte en dispersie van populaties hangt af van de neerslag en overstromingen. Desondanks de onregelmatigheid in tijd en ruimte van geschikte leef- en broedcondities op het Australische continent, zijn de ibissen in staat om zich vlot aan de continu wijzigende omstandigheden aan te passen. Toch is er geen twijfel dat periodieke droogtes de regionale populaties zullen aantasten waardoor grote fluctuaties in de ibispopulatie te verwachten zijn. De grootste bedreiging voor de ibis is het voorkomen van overstromingen en het omzetten van waterrijke gebieden naar landbouwgrond. Daartegenover lijkt de ibis zich vlot aan te passen aan antropogene habitats.
+
+## Referenties
+
+Voor het schrijven van dit artikel en het studbook van de Australische ibis zijn tientallen artikels en boeken geraadpleegd. Deze hier vermelden zou te veel ruimte in beslag nemen. De lijst is op aanvraag verkrijgbaar.
